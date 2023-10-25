@@ -13,6 +13,6 @@ provider "aws" {
 #   profile                  = "aws-master-assume-role-sts-profile"
 #   profile                  = "bca-aws-master-hc-dev"
 #   alias                    = "bca-aws-master-hc-dev"
-  region                   = var.contoso-testing-region
+    region                   = var.contoso-testing-region
 }
 
